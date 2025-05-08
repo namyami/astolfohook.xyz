@@ -1,4 +1,4 @@
-# hi welcome to this website
+# hi welcome to this page!!
 
 
 astolfohook so far supported
@@ -8,3 +8,7 @@ astolfohook so far supported
 
 
 yeah thats all about it
+
+
+astolfohook is still private and release date will be NAN since im shit at scripting :sob:
+
