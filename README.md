@@ -1,3 +1,5 @@
+# Games
+
 <table>
   <tr>
     <th> Game</th>
