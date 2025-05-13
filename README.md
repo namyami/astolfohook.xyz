@@ -13,10 +13,5 @@
     <td><strong>Game Unite Testing Place</strong></td>
     <td><span style="color:orange;"> In Progress</span></td>
     <td> Currently in development</td>
-  </tr>
-    <tr>
-    <td><strong>Game Unite Testing Place</strong></td>
-    <td><span style="color:orange;"> In Progress</span></td>
-    <td> Currently in development</td>
-  </tr>
+    </tr>
 </table>
