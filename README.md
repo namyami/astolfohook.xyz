@@ -1,4 +1,6 @@
-# 🟢 Equals supported, working 🟠 Equals working on it, works but some of the features is glitched or not working
+### ✅ Compatibility Status
 
-deadlines 🟢
-game unite testing place 🟠
+| Game | Status | Notes |
+|------|--------|-------|
+| **Deadline** | 🟢 Supported | Fully functional, no issues. |
+| **Game Unite Testing Place** | 🟠 Partial Support | Working, but some features may be glitched or not fully stable. |
