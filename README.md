@@ -1,6 +1,6 @@
-### supports
+##  Supported Games
 
-| Game | Status | Notes |
-|------|--------|-------|
-| **Deadline** | 🟢 Supported | Working |
-| **Game Unite Testing Place** | 🟠 Working on it | None |
+|  Game                       |  Status        |  Notes         |
+|------------------------------|------------------|------------------|
+| **Deadline**                 | 🟢 **Supported** | Fully working 💯 |
+| **Game Unite Testing Place** | 🟠 *In Progress* | Under dev 🛠️     |
