@@ -1,6 +1,6 @@
-### ✅ Compatibility Status
+### supports
 
 | Game | Status | Notes |
 |------|--------|-------|
-| **Deadline** | 🟢 Supported | Fully functional, no issues. |
-| **Game Unite Testing Place** | 🟠 Partial Support | Working, but some features may be glitched or not fully stable. |
+| **Deadline** | 🟢 Supported | Working |
+| **Game Unite Testing Place** | 🟠 Working on it | None |
