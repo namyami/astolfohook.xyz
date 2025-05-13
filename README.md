@@ -2,5 +2,5 @@
 
 |  Game                       |  Status        |  Notes         |
 |------------------------------|------------------|------------------|
-| **Deadline**                 | 🟢 **Supported** | Fully working 💯 |
-| **Game Unite Testing Place** | 🟠 *In Progress* | Under dev 🛠️     |
+| **Deadline**                 | 🟢 **Supported** | Fully working  |
+| **Game Unite Testing Place** | 🟠 *Work In Progress* | Under dev      |
